@@ -20,7 +20,7 @@ We should also obtain an OpenAI API key from [the OpenAI website](https://platfo
 OPENAI_API_KEY = "your API key"
 ```
 
-For this project, I used my own LinkedIn profile's as the source data, see `data/linkedin.txt` file.
+For this project, I used a fake LinkedIn profile as the source data, see `data/linkedin.txt` file.
 
 You can replace it with any data you wish by adding you own text files to the `/data` folder.
 
